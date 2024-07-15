@@ -22,6 +22,6 @@ Using the new Transforms system is similar to the old system, for example:
 
 TODO
 
-However, there are some behavior differences which are necessary to allow it to work across processes. A migration guide [Migrating from Transformations to Transforms](/docs/concepts/options/transformations/#migrating-from-transformations-to-transforms) is available to help transition to the new system.
+Note that there are some behavior differences between the two systems, necessary to make Transforms work across process boundaries. A migration guide [Migrating from Transformations to Transforms](/docs/concepts/options/transformations/#migrating-from-transformations-to-transforms) is available to help transition to the new system.
 
 We're excited to address this limitation, allowing you to transform all resources in your program, including packaged components. If you have any questions or feedback, please don't hesitate to reach out to us on [Slack](https://slack.pulumi.com/).
